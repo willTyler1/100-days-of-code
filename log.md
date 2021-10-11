@@ -13,9 +13,9 @@
 ### Day 1: 11th October, 2021 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Progress.
+**Today's Progress**: Two leetcode problems in Python.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I haven't touched python in ~6 months, it was fun remembering syntax and writing some easy algorithms. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
