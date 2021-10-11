@@ -11,13 +11,12 @@
 
 --->
 ### Day 1: 11th October, 2021 
-##### (delete me or comment me out)
 
 **Today's Progress**: Two leetcode problems in Python.
 
 **Thoughts**: I haven't touched python in ~6 months, it was fun remembering syntax and writing some easy algorithms. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Day1 folder in repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day1)
 
 
 ### Day 1: June 27, Monday
