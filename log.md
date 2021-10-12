@@ -16,7 +16,8 @@
 
 **Thoughts**: I haven't touched python in ~6 months, it was fun remembering syntax and writing some easy algorithms. 
 
-**Link(s) to work**: [Day1 folder in repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day1)
+**Link(s) to work** 
+1. [Day1 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day1)
 
 
 ### Day 1: June 27, Monday
@@ -27,4 +28,4 @@
 
 **Link(s) to work**
 1. [Replit repo](https://replit.com/@willTyler1/boilerplate-polygon-area-calculator#shape_calculator.py)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Day2 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/blob/master/Code/Day2/shape_calculator.py)
