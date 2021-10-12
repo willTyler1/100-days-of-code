@@ -10,7 +10,7 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
-### Day 1: 11th October, 2021 
+### Day 1: Mon 11th October, 2021 
 
 **Today's Progress**: Two leetcode problems in Python.
 
@@ -20,7 +20,7 @@
 1. [Day1 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day1)
 
 
-### Day 1: June 27, Monday
+### Day 1: Tues 12th October, 2021
 
 **Today's Progress**: FreeCodeCamp scientific computing in python - polygon area project.
 
