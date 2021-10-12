@@ -21,10 +21,10 @@
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: FreeCodeCamp scientific computing in python - polygon area project.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Did the polygon area project, managed to get all unit tests to pass. Will maybe neaten rest of code. Python memory is coming back :D 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Replit repo](https://replit.com/@willTyler1/boilerplate-polygon-area-calculator#shape_calculator.py)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
