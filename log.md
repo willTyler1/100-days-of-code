@@ -38,8 +38,8 @@
 **Thoughts**: Started a little late in the evening so my brain was pretty tired, still managed to write and test a decent chunk of the code. It feels good to be writing some python again, I will probably do a few more of the FreeCodeCamp projects before starting some other stuff.  
 
 **Link(s) to work** 
-1. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3)
-2. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
+1. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
+2. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3) 
 
 
 
