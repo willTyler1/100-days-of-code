@@ -20,7 +20,7 @@
 1. [Day1 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day1)
 
 
-### Day 1: Tues 12th October, 2021
+### Day 2: Tues 12th October, 2021
 
 **Today's Progress**: FreeCodeCamp scientific computing in python - polygon area project.
 
@@ -29,3 +29,19 @@
 **Link(s) to work**
 1. [Replit repo](https://replit.com/@willTyler1/boilerplate-polygon-area-calculator#shape_calculator.py)
 2. [Day2 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/blob/master/Code/Day2/shape_calculator.py)
+
+
+### Day 3: Mon 13th October, 2021 
+
+**Today's Progress**: Started FreeCodeCamp budget calc project.
+
+**Thoughts**: Started a little late in the evening so my brain was pretty tired, still managed to write and test a decent chunk of the code. It feels good to be writing some python again, I will probably do a few more of the FreeCodeCamp projects before starting some other stuff.  
+
+**Link(s) to work** 
+1. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3)
+2. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
+
+
+
+
+
