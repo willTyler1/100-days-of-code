@@ -39,7 +39,29 @@
 
 **Link(s) to work** 
 1. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
-2. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3) 
+2. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
+
+
+### Day 4: Mon 14th October, 2021 
+
+**Today's Progress**: Finished most of FreeCodeCamp budget calc project.
+
+**Thoughts**: Essentially finished, having some issues with the create spend chart format.  
+
+**Link(s) to work** 
+1. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
+2. [Day4 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
+
+
+### Day 5: Mon 15th October, 2021 
+
+**Today's Progress**: Fixed format for create_spend_chart in FreeCodeCamp budget calc project.
+
+**Thoughts**: The code for this function could definitely be neater, but at least it works now :D.  
+
+**Link(s) to work** 
+1. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
+2. [Day5 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
 
 
 
