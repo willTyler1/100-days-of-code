@@ -31,7 +31,7 @@
 2. [Day2 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/blob/master/Code/Day2/shape_calculator.py)
 
 
-### Day 3: Mon 13th October, 2021 
+### Day 3: Weds 13th October, 2021 
 
 **Today's Progress**: Started FreeCodeCamp budget calc project.
 
@@ -42,7 +42,7 @@
 2. [Day3 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
 
 
-### Day 4: Mon 14th October, 2021 
+### Day 4: Thurs 14th October, 2021 
 
 **Today's Progress**: Finished most of FreeCodeCamp budget calc project.
 
@@ -53,7 +53,7 @@
 2. [Day4 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
 
 
-### Day 5: Mon 15th October, 2021 
+### Day 5: Fri 15th October, 2021 
 
 **Today's Progress**: Fixed format for create_spend_chart in FreeCodeCamp budget calc project.
 
@@ -62,6 +62,26 @@
 **Link(s) to work** 
 1. [Replit repo](https://replit.com/@willTyler1/boilerplate-budget-app#budget.py)
 2. [Day5 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day3_Day4_Day5) 
+
+
+### Day 6: Sat 16th October, 2021 
+
+**Today's Progress**: Read about computation expressions in F#.
+
+**Thoughts**: These are something I've seen others talking about but I have yet to use (and so don't understand!), still need to figure them out properly and make some notes.   
+
+**Link(s) to work** 
+1. [Source used to study](https://fsharpforfunandprofit.com/series/computation-expressions/) 
+
+
+### Day 7: Sun 17th October, 2021 
+
+**Today's Progress**: Started the leetcode algorithms 1 Series of problems.
+
+**Thoughts**: Did all three Day 1 problems in the series. These were all binary search algorithms - it was fun to recall binary searches, I haven't seen those since decision maths A level!   
+
+**Link(s) to work** 
+1. [Day7 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day7)
 
 
 
