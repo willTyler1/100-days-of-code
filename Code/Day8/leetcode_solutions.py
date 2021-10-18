@@ -1,4 +1,4 @@
-#977 - Squares of a Sorted Array
+#problem 977 - Squares of a Sorted Array
 def sortedSquares(self, nums: List[int]) -> List[int]:
     #using two pointer approach. Comparing absolute values.
     n = len(nums)
@@ -16,7 +16,7 @@ def sortedSquares(self, nums: List[int]) -> List[int]:
     return result
   
   
-#189 - Rotate Array
+#problem 189 - Rotate Array
 def rotate(self, nums: List[int], k: int) -> None:
     """
     Do not return anything, modify nums in-place instead.
