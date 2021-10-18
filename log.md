@@ -84,6 +84,16 @@
 1. [Day7 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day7)
 
 
+### Day 8: Mon 18th October, 2021 
+
+**Today's Progress**: Leetcode algos 1 day2 problems .
+
+**Thoughts**: Did the day 2 problems in the series. These were all "two pointer" problems. I.e. problems where you have two index points that converge to a common point (at which point the problem is solved).    
+
+**Link(s) to work** 
+1. [Day8 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day8)
+2. [Two Pointer source](https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640)
+
 
 
 
