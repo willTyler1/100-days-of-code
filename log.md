@@ -95,5 +95,13 @@
 2. [Two Pointer source](https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640)
 
 
+### Day 9: Tues 19th October, 2021 
+
+**Today's Progress**: Leetcode algos 1 day3 problems.
+
+**Thoughts**: Did the day 3 problems in the series (again, both 2 pointer problems). Also did another random problem (Next greater element), need to optimise the code for this though as my solution is quite slow.     
+
+**Link(s) to work** 
+1. [Day9 folder in GitHub repo](https://github.com/willTyler1/100-days-of-code/tree/master/Code/Day9)
 
 
